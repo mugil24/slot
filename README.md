@@ -147,7 +147,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-[text](vaan/manage.py)
+![alt text](out.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
