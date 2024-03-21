@@ -31,7 +31,7 @@ Execute the program using runserver command.
 </head>
 <table border ="2" cellpadding="2" width="400" heigth="400" bgcolor="blue">
 
-<caption> <h2>Camu Schedule </h2></caption>
+<caption> <h2>Camu Schedule - vaanmugil vs (212221040174) </h2></caption>
 <img src="logo.png" height= "200" width="1200">
 <tr <tr bgcolor="violet">>
 
