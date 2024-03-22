@@ -25,17 +25,13 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-
 <head>
 <title> Sample Super  Web</title>
 </head>
 <table border ="2" cellpadding="2" width="400" heigth="400" bgcolor="blue">
-
 <caption> <h2>Camu Schedule - vaanmugil vs (212221040174) </h2></caption>
 <img src="logo.png" height= "200" width="1200">
 <tr <tr bgcolor="violet">>
-
-
 <th>Date</th>
 <th>MONDAY</th>
 <th>TUESDAY</th>
@@ -43,8 +39,6 @@ Execute the program using runserver command.
 <th>THURSDAY</th>
 <th>FRIDAY</th>
 <th>SATURDAY</th>
-
-
 </tr>
 <tr>
 <td>8-10</td>
@@ -54,30 +48,21 @@ Execute the program using runserver command.
 <td>Mad</td>
 <td>FWAT</td>
 <td>Free</td>
-
 </tr>
 <tr>
 <td>10-12</td>
 <td>Maths</td>
 <td>Ind Ast</td>
 <td>BEEE</td>
-
 <td>EMP</td>
 <td>Maths</td>
 <td>Free</td>
-
 </tr>
 <tr>
-
 <td>12-1</td>
-
 <td colspan="6" align="center"> LUNCH BREAK</td>
-
-
 </tr>
-
 <tr>
-
 <td>1-3</td>
 <td>BEEE</td>
 <td>FWAT</td>
@@ -85,7 +70,6 @@ Execute the program using runserver command.
 <td>FWAD</td>
 <td> FREE</td>
 <td>CAD</td>
-
 </tr>
 <tr>
 <td>3-5</td>
@@ -93,13 +77,9 @@ Execute the program using runserver command.
 <td>dpsd</td>
 <td>FREE</td>
 <td>FREE</td>
-
 <td>CAD</td>
 <td>AI</td>
 </tr>
-
-
-
 </table>
 <table border ="2" cellpadding="2" width="400" heigth="400" >
 <tr>
